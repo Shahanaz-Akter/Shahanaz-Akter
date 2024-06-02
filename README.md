@@ -13,7 +13,7 @@ Skills:  HTML / CSS/ REACT / JS /NodeJS/MongoDB/Laravel
 - 🔭 I’m currently working on Rental Solution Project 
 - 🌱 I’m currently learning ReactJs and VueJs  
 - 👯 I’m looking to collaborate on GitHub and GitLab 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Development 😒
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shahanaz-Akter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shahanaz-akter-569253248//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shahanaz.akter.33865?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://neela.webblysolutions.com/neelabh_m/)  
