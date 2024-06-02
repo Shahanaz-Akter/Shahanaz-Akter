@@ -1,11 +1,6 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<div align="center"> 
- Hi there 👋, I'm Shahanaz Akter.
-#### Web Developer</div>
-
-<div align="center"> 
-https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-1/447539523_1489770175301552_787207192942241631_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHHBE1cTM2RoMaPJq_8L4RIXjKNgiew3-JeMo2CJ7Df4sBjf7InoZfyzMptiKH2oO10NlKV02OJqZ1IfBnW2xfI&_nc_ohc=7LKsibCcMKsQ7kNvgEk9YhI&_nc_ht=scontent.fdac5-2.fna&oh=00_AYBJLR7Li6hUMD88Mv3pPV0NX8xPLvzVDRDxV_NFMHDbXg&oe=66628947</div>
+![Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-1/447539523_1489770175301552_787207192942241631_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHHBE1cTM2RoMaPJq_8L4RIXjKNgiew3-JeMo2CJ7Df4sBjf7InoZfyzMptiKH2oO10NlKV02OJqZ1IfBnW2xfI&_nc_ohc=7LKsibCcMKsQ7kNvgEk9YhI&_nc_ht=scontent.fdac5-2.fna&oh=00_AYBJLR7Li6hUMD88Mv3pPV0NX8xPLvzVDRDxV_NFMHDbXg&oe=66628947)
 
 <div align="center"> 
  Hi there 👋, I'm Shahanaz Akter.
